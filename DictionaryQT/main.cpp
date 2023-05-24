@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 
 #include <QApplication>
+#include <MyDictionary.h>
 
 int main(int argc, char *argv[])
 {
